@@ -99,8 +99,7 @@ ESTRUTURA DE DADOS
 ## 🎥 Vídeo explicativo
 
 ✅ O vídeo de apresentação do projeto está disponível no YouTube em:  
-[**LINK_DO_VÍDEO**]  
-(*link do vídeo*)
+[**https://www.youtube.com/watch?v=mN1n1-eKnK0**](https://www.youtube.com/watch?v=mN1n1-eKnK0)
 
 ---
 
